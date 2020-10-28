@@ -5,5 +5,5 @@
   name: mtcars
   rows: 150
   cols: 5
-  description: k
+  description: kdf
   type: table
