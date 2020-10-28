@@ -7,3 +7,6 @@
   cols: 5
   description: kdf
   type: table
+- path: pins/cookbook
+  name: cookbook
+  type: default
