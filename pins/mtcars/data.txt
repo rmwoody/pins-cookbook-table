@@ -15,4 +15,5 @@ columns:
   am: numeric
   gear: numeric
   carb: numeric
+description: message
 type: table
