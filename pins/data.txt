@@ -3,7 +3,7 @@
   type: default
 - path: pins/mtcars
   name: mtcars
-  rows: 32
-  cols: 11
+  rows: 150
+  cols: 5
   description: k
   type: table
